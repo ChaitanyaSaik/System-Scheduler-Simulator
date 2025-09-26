@@ -1,8 +1,8 @@
-# System Scheduler Simulator
+# System Scheduler Simulation
 
 ## Project Overview
 
-The **System Scheduler Simulator** is a C++ project that simulates multiple CPU scheduling algorithms used in operating systems. It includes both **preemptive and non-preemptive scheduling**, provides detailed metrics, and visualizes execution with a **text-based Gantt chart**.
+The **System Scheduler Simulation** is a C++ project that simulates multiple CPU scheduling algorithms used in operating systems. It includes both **preemptive and non-preemptive scheduling**, provides detailed metrics, and visualizes execution with a **text-based Gantt chart**.
 
 ### Supported Scheduling Algorithms
 
